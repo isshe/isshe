@@ -2,7 +2,9 @@
 
 > A coder who is passionate about openresty and open source.
 
-<img src="https://github-readme-stats.mrdulin.vercel.app/api?username=isshe&show_icons=true&hide_border=true&icon_color=1196EE&title_color=1196EE" align="center">
+<p align="center"> 
+<img src="https://github-readme-stats.mrdulin.vercel.app/api?username=isshe&show_icons=true&hide_border=true&icon_color=1196EE&title_color=1196EE" />
+</p>
 
 <!--
 **isshe/isshe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
