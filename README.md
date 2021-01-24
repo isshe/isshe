@@ -3,7 +3,7 @@
 A coder, a weaver.
 
 <p align="center"> 
-<img src="https://github-readme-stats.vercel.app/api/?username=isshe&show_icons=true&title_color=2667FC&icon_color=408A2B&text_color=25292E&bg_color=FFFFFF" />
+<img src="https://github-readme-stats.vercel.app/api/?username=isshe&show_icons=true&title_color=2667FC&icon_color=75F94F&text_color=25292E&bg_color=FFFFFF" />
 </p>
 
 <!--
