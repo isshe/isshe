@@ -1,9 +1,9 @@
 ### Hi there, I am [isshe](https://github.com/isshe).👋
 
-> A coder who is passionate about [openresty](https://github.com/openresty/lua-nginx-module) and open source.
+> A coder, a weaver.
 
 <p align="center"> 
-<img src="https://github-readme-stats.vercel.app/api/?username=isshe&show_icons=true&title_color=1196EE&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
+<img src="https://github-readme-stats.vercel.app/api/?username=isshe&show_icons=true&title_color=1196EE&icon_color=79ff97&text_color=9f9f9f&bg_color=ECF0F1" />
 </p>
 
 <!--
