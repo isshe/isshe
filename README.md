@@ -1,6 +1,6 @@
 ### Hi there, I am [isshe](https://github.com/isshe).👋
 
-A coder, a weaver.
+A coder.
 
 <p align="center"> 
 <img src="https://github-readme-stats.vercel.app/api/?username=isshe&show_icons=true&title_color=2667FC&icon_color=65F94F&text_color=25292E&bg_color=FFFFFF" />
