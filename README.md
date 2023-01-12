@@ -3,7 +3,7 @@
 A coder.
 
 <p align="center"> 
-<img src="https://github-readme-stats.vercel.app/api/?username=isshe&show_icons=true&title_color=2667FC&icon_color=65F94F&text_color=25292E&bg_color=FFFFFF" />
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=isshe&show_icons=true&title_color=2667FC&icon_color=65F94F&text_color=25292E&bg_color=FFFFFF" />
 </p>
 
 <!--
